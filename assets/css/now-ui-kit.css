@@ -3587,6 +3587,11 @@ p {
   font-weight: 700;
   padding-top: 30px;
 }
+@media (max-width: 767px) {
+  .title {
+    font-size:55px !important;
+  }
+}
 
 .title.title-up {
   text-transform: uppercase;
